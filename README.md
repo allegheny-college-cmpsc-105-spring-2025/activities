@@ -35,4 +35,4 @@ this repo!
 - Please only upload one file per activity. If you upload the wrong thing, please
   remove it and upload the correct file
 
-Overtime, you will have a record of all of your work here here in GitHub.
+Over time, you will have a record of all of your work here here in GitHub.
